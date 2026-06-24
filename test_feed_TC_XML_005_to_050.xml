@@ -107,7 +107,7 @@
       <link>https://example.com/product/tc-xml-008</link>
       <description>Product to test that repeated g:size node order is preserved (L, M, S).</description>
       <image_link>https://example.com/images/tc-xml-008.jpg</image_link>
-      <availability>out of stock</availability>
+      <availability>in stock</availability>
       <condition>new</condition>
       <price>100.00 INR</price>
       <sale_price>100.00 INR</sale_price>
@@ -130,7 +130,7 @@
       <link>https://example.com/product/tc-xml-009</link>
       <description>Product to test interleaved g:color and g:size nodes; parser must group same nodes correctly.</description>
       <image_link>https://example.com/images/tc-xml-009.jpg</image_link>
-      <availability>out of stock</availability>
+      <availability>in stock</availability>
       <condition>new</condition>
       <price>100.00 INR</price>
       <sale_price>100.00 INR</sale_price>
